@@ -1,0 +1,46 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Lista de cambios no controlados predeterminada",
+			"files": [
+				"C:/Users/ies/Documents/Unreal Projects/Runner25JoseFuentes/Content/Tileset/Sprites/Fall/Fall_01.uasset",
+				"C:/Users/ies/Documents/Unreal Projects/Runner25JoseFuentes/Content/Tileset/Sprites/Idle/Idle_01.uasset",
+				"C:/Users/ies/Documents/Unreal Projects/Runner25JoseFuentes/Content/Tileset/Sprites/Idle/Idle_02.uasset",
+				"C:/Users/ies/Documents/Unreal Projects/Runner25JoseFuentes/Content/Tileset/Sprites/Idle/Idle_03.uasset",
+				"C:/Users/ies/Documents/Unreal Projects/Runner25JoseFuentes/Content/Tileset/Sprites/Idle/Idle_04.uasset",
+				"C:/Users/ies/Documents/Unreal Projects/Runner25JoseFuentes/Content/Tileset/Sprites/Idle/Idle_05.uasset",
+				"C:/Users/ies/Documents/Unreal Projects/Runner25JoseFuentes/Content/Tileset/Sprites/Jump/Jump_01.uasset",
+				"C:/Users/ies/Documents/Unreal Projects/Runner25JoseFuentes/Content/Tileset/Sprites/Jump/Jump_02.uasset",
+				"C:/Users/ies/Documents/Unreal Projects/Runner25JoseFuentes/Content/Tileset/Sprites/Jump/Jump_03.uasset",
+				"C:/Users/ies/Documents/Unreal Projects/Runner25JoseFuentes/Content/MainMap.umap",
+				"C:/Users/ies/Documents/Unreal Projects/Runner25JoseFuentes/Content/Levels/MainMap.umap",
+				"C:/Users/ies/Documents/Unreal Projects/Runner25JoseFuentes/Content/Tileset/world_tileset.uasset",
+				"C:/Users/ies/Documents/Unreal Projects/Runner25JoseFuentes/Content/Tileset/world_tileset_TileSet.uasset",
+				"C:/Users/ies/Documents/Unreal Projects/Runner25JoseFuentes/Content/Tileset/Tilemap.uasset",
+				"C:/Users/ies/Documents/Unreal Projects/Runner25JoseFuentes/Content/Tileset/Sprites/Idle/PF_Idle.uasset",
+				"C:/Users/ies/Documents/Unreal Projects/Runner25JoseFuentes/Content/Tileset/Sprites/Jump/PF_Jump.uasset",
+				"C:/Users/ies/Documents/Unreal Projects/Runner25JoseFuentes/Content/Blueprints/BP_Player.uasset",
+				"C:/Users/ies/Documents/Unreal Projects/Runner25JoseFuentes/Content/Tileset/Sprites/Fall/Fall_01_Sprite.uasset",
+				"C:/Users/ies/Documents/Unreal Projects/Runner25JoseFuentes/Content/Tileset/Sprites/Idle/Idle_01_Sprite.uasset",
+				"C:/Users/ies/Documents/Unreal Projects/Runner25JoseFuentes/Content/Tileset/Sprites/Idle/Idle_02_Sprite.uasset",
+				"C:/Users/ies/Documents/Unreal Projects/Runner25JoseFuentes/Content/Tileset/Sprites/Idle/Idle_03_Sprite.uasset",
+				"C:/Users/ies/Documents/Unreal Projects/Runner25JoseFuentes/Content/Tileset/Sprites/Idle/Idle_04_Sprite.uasset",
+				"C:/Users/ies/Documents/Unreal Projects/Runner25JoseFuentes/Content/Tileset/Sprites/Idle/Idle_05_Sprite.uasset",
+				"C:/Users/ies/Documents/Unreal Projects/Runner25JoseFuentes/Content/Tileset/Sprites/Jump/Jump_01_Sprite.uasset",
+				"C:/Users/ies/Documents/Unreal Projects/Runner25JoseFuentes/Content/Tileset/Sprites/Jump/Jump_02_Sprite.uasset",
+				"C:/Users/ies/Documents/Unreal Projects/Runner25JoseFuentes/Content/Tileset/Sprites/Jump/Jump_03_Sprite.uasset",
+				"C:/Users/ies/Documents/Unreal Projects/Runner25JoseFuentes/Content/Blueprints/BP_GameMode.uasset",
+				"C:/Users/ies/Documents/Unreal Projects/Runner25JoseFuentes/Content/Inputs/IMC_Player.uasset",
+				"C:/Users/ies/Documents/Unreal Projects/Runner25JoseFuentes/Content/Inputs/IMC_Base.uasset",
+				"C:/Users/ies/Documents/Unreal Projects/Runner25JoseFuentes/Content/Inputs/IA_Move.uasset",
+				"C:/Users/ies/Documents/Unreal Projects/Runner25JoseFuentes/Content/Inputs/IA_Jump.uasset",
+				"C:/Users/ies/Documents/Unreal Projects/Runner25JoseFuentes/Content/Tileset/Sprites/world_tileset.uasset",
+				"C:/Users/ies/Documents/Unreal Projects/Runner25JoseFuentes/Content/Tileset/Sprites/world_tileset_TileSet.uasset",
+				"C:/Users/ies/Documents/Unreal Projects/Runner25JoseFuentes/Content/Tileset/Sprites/Idle/Idle.uasset",
+				"C:/Users/ies/Documents/Unreal Projects/Runner25JoseFuentes/Content/Blueprints/BP_Character.uasset"
+			]
+		}
+	]
+}
