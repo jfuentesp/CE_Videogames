@@ -2,4 +2,6 @@
 
 Controles:
 
-Saltar - Barra espaciadora
+<li>
+  <ul>Saltar Barra espaciadora</ul>
+</li>
