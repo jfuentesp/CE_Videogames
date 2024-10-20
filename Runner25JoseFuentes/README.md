@@ -2,18 +2,18 @@
 
 Risketos basicos:
 
-[X] Controls simples, ja sigui clicar un o dos botons.
-[X] Moviment amb collisions.
-[] Aleatorietat.
-[X] Creació d’objectes per Blueprint, ja sigui d’inici o un spawner (Relacionat amb el 1r Risketo Opcional).
-[] Puntuació mostrada per HUD, no val debug.
+[X] Controls simples, ja sigui clicar un o dos botons.</br>
+[X] Moviment amb collisions.</br>
+[] Aleatorietat.</br>
+[X] Creació d’objectes per Blueprint, ja sigui d’inici o un spawner (Relacionat amb el 1r Risketo Opcional).</br>
+[] Puntuació mostrada per HUD, no val debug.</br>
 
 Risketos opcionales:
 
-[] Fer una pool d’objectes.
-[] Augment progressiu de dificultat.
-[] Mort i reinici.
-[X] Ús de parallax o altre format avançat de background.
+[] Fer una pool d’objectes.</br>
+[] Augment progressiu de dificultat.</br>
+[] Mort i reinici.</br>
+[X] Ús de parallax o altre format avançat de background.</br>
 
 Controles:
 
