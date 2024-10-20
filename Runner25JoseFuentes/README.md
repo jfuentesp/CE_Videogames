@@ -4,7 +4,7 @@ Risketos basicos:
 
 [X] Controls simples, ja sigui clicar un o dos botons.</br>
 [X] Moviment amb collisions.</br>
-[] Aleatorietat.</br>
+[X] Aleatorietat.</br>
 [X] Creació d’objectes per Blueprint, ja sigui d’inici o un spawner (Relacionat amb el 1r Risketo Opcional).</br>
 [] Puntuació mostrada per HUD, no val debug.</br>
 
