@@ -6,7 +6,7 @@ Risketos basicos:
 [X] Moviment amb collisions.</br>
 [X] Aleatorietat.</br>
 [X] Creació d’objectes per Blueprint, ja sigui d’inici o un spawner (Relacionat amb el 1r Risketo Opcional).</br>
-[] Puntuació mostrada per HUD, no val debug.</br>
+[X] Puntuació mostrada per HUD, no val debug.</br>
 
 Risketos opcionales:
 
